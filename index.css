@@ -1,0 +1,14 @@
+body {
+    background: url(fundo.avif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background-color: #1d1d1bff;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
