@@ -12,3 +12,10 @@ p {
     font-family: 'Oswald', sans-serif;
     font-family: 'Playfair Display', serif;
 }
+footer {
+  color: rgb(255, 255, 255);
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
